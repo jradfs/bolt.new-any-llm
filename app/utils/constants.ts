@@ -28,7 +28,7 @@ const staticModels: ModelInfo[] = [
   { name: 'llama-3.2-1b-preview', label: 'Llama 3.2 1b (Groq)', provider: 'Groq' },
   { name: 'claude-3-opus-20240229', label: 'Claude 3 Opus', provider: 'Anthropic' },
   { name: 'claude-3-sonnet-20240229', label: 'Claude 3 Sonnet', provider: 'Anthropic' },
-  { name: 'claude-3-haiku-20240307', label: 'Claude 3 Haiku', provider: 'Anthropic' },
+  { name: 'claude-3-5-haiku-20241022', label: 'Claude 3-5 Haiku', provider: 'Anthropic' },
   { name: 'gpt-4o-mini', label: 'GPT-4o Mini', provider: 'OpenAI' },
   { name: 'gpt-4-turbo', label: 'GPT-4 Turbo', provider: 'OpenAI' },
   { name: 'gpt-4', label: 'GPT-4', provider: 'OpenAI' },
